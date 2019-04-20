@@ -4,5 +4,5 @@ function happyHolidays() {
 }
 var name = "Albert"
 function happyHolidaysTo() {
-  return ""
+  return `Happy holidays, ${name}!`
 }
