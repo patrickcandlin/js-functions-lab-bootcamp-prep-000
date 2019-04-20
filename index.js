@@ -8,12 +8,12 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 
-var holiday = "Easter"
+var holiday = "Mother's Day"
 function happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
 
-var days = "2"
+var days = "20 days"
 function holidayCountdown(days, holiday) {
   return `It's ${days} days until ${holiday}!`
 }
